@@ -1,5 +1,5 @@
 # hello-vue-native
-ExpoなしのVue Nativeお試しです(失敗)
+ExpoなしのVue Nativeお試しです
 
 - [Installation — Vue Native](https://vue-native.io/docs/installation.html#Setup-with-React-Native)
 
